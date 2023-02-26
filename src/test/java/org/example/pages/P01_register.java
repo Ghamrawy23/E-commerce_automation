@@ -48,6 +48,7 @@ public class P01_register {
     public WebElement password;
 
 
+
     @FindAll({
             @FindBy(id = "ConfirmPassword"),
             @FindBy(name = "ConfirmPassword")

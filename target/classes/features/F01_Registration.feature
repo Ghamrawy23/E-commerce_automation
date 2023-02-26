@@ -1,4 +1,4 @@
-@test
+@smoke
 Feature: F01_Registration | guest users could create new accounts
 
   #positive scenario
